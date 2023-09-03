@@ -1,0 +1,28 @@
+[
+    {
+        "id":0,
+        "courseName": "IFT 101",
+        "from": "Information Technology",
+        "instructor": "David Alderman",
+        "credits": "4",
+        "description": "Introduction to IT"
+    },
+    
+    {
+        "id":1,
+        "courseName": "IFT 102",
+        "from": "Information Technology",
+        "instructor": "Robert Bruce",
+        "credits": "4",
+        "description": "Introduction to IT"
+    },
+    
+    {
+        "id":2,
+        "courseName": "IFT 201",
+        "from": "Information Technology",
+        "instructor": "David Alderman",
+        "credits": "4",
+        "description": "Introduction to IT"
+    }
+]
